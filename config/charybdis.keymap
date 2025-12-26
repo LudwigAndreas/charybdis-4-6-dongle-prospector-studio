@@ -166,7 +166,7 @@
 &bootloader  &studio_unlock  &trans    &trans     &trans      &trans      &trans    &trans    &trans    &trans    &studio_unlock  &bootloader
 &trans       &trans          &trans    &trans     &trans      &trans      &trans    &trans    &trans    &trans    &trans          &trans
 &trans       &kp LEFT_GUI    &kp LALT  &kp LCTRL  &kp LSHIFT  &trans      &trans    &mkp MB1  &mkp MB2  &mkp MB3  &kp RIGHT_GUI   &trans
-&trans       &trans          &trans    &mo 1      &mo 2       &trans      &trans    &trans    &trans    &trans    &trans          &trans
+&trans       &trans          &trans    &mo 1      &mo 2       &trans      &trans    &trans    &trans    &trans    &trans          &gresc
                                        &mkp MB2   &mkp MB1    &mkp MB3    &mkp MB3  &mkp MB1
                                                   &trans      &mkp MB2    &mkp MB2
             >;
